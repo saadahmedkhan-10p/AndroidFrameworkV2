@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite" parallel="false">
+<test name="ValidLogin">
+    <parameter name="platformName" value="Android"/>
+    <parameter name="platformVersion" value="15"/>
+    <parameter name="deviceName" value="emulator-5554"/>
+    <classes>
+        <class name="testCases.LoginTest"/>
+    </classes>
+</test>
+</suite>
