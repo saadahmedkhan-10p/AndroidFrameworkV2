@@ -17,7 +17,7 @@ public class LoginTest extends AppFactory {
     @BeforeMethod
     public void setup(Method method){
         loginPage = new LoginPage();
-        System.out.println("\n" + ""********** Starting Test: " + method.getName() +" **********" + "\n");
+        System.out.println("\n" + "********** Starting Test: " + method.getName() +" **********" + "\n");
        // productPage = new ProductPage(); /* no need for this as this was returned in click method*/ helps with memory consumption
     }
 
