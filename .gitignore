@@ -31,6 +31,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea/*
+.logs/*
 
 ### VS Code ###
 .vscode/

@@ -1,0 +1,13 @@
+[DEBUG] 2024-11-20 17:11:14:893 com.qa.base.AppFactory:41 - This is debug message
+[INFO ] 2024-11-20 17:11:14:895 com.qa.base.AppFactory:42 - This is info message
+[WARN ] 2024-11-20 17:11:14:895 com.qa.base.AppFactory:43 - This is warning message
+[ERROR] 2024-11-20 17:11:14:896 com.qa.base.AppFactory:44 - This is error message
+[FATAL] 2024-11-20 17:11:14:896 com.qa.base.AppFactory:45 - This is fatal message
+[DEBUG] 2024-11-20 17:43:37:271 com.qa.base.AppFactory:$L - This is debug message
+[INFO ] 2024-11-20 17:43:37:275 com.qa.base.AppFactory:$L - This is info message
+[WARN ] 2024-11-20 17:43:37:276 com.qa.base.AppFactory:$L - This is warning message
+[ERROR] 2024-11-20 17:43:37:276 com.qa.base.AppFactory:$L - This is error message
+[FATAL] 2024-11-20 17:43:37:278 com.qa.base.AppFactory:$L - This is fatal message
+[DEBUG] 2024-11-20 17:44:44:690 com.qa.base.AppFactory:$L - This is debug message
+[INFO ] 2024-11-20 17:44:44:691 com.qa.base.AppFactory:$L - This is info message
+[WARN ] 2024-11-20 17:44:44:693 com.qa.base.AppFactory:$L - This is warning message

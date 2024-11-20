@@ -56,7 +56,7 @@ public class LoginTest extends AppFactory {
         loginPage.clickLoginButton();
 
         String actualErrorMessage = loginPage.getErrorMessage();
-        String expectedErrorMessage = "Username and password do not match any user in this service.";
+        String expectedErrorMessage = stringHashMap.get("error_invalid_UserName");
 
         System.out.println("Actual Error Message: " +actualErrorMessage+ "\n" + "Expected Error Message: " +expectedErrorMessage);
         Assert.assertEquals(actualErrorMessage, expectedErrorMessage);
@@ -70,7 +70,7 @@ public class LoginTest extends AppFactory {
         System.out.println("Login successful");
 
         String actualProductTitle = productPage.getProductHeaderText();
-        String expectedProductTitle = "PRODUCTS";
+        String expectedProductTitle = stringHashMap.get("product_Title");
 
         System.out.println("Actual Product Title: " +actualProductTitle+ "\n" + "Expected Title: " + expectedProductTitle);
 

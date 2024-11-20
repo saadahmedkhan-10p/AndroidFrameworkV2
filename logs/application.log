@@ -1,0 +1,5 @@
+[DEBUG] 2024-11-20 17:48:34:131 com.qa.base.AppFactory:$L - This is debug message
+[INFO ] 2024-11-20 17:48:34:150 com.qa.base.AppFactory:$L - This is info message
+[WARN ] 2024-11-20 17:48:34:150 com.qa.base.AppFactory:$L - This is warning message
+[ERROR] 2024-11-20 17:48:34:151 com.qa.base.AppFactory:$L - This is error message
+[FATAL] 2024-11-20 17:48:34:151 com.qa.base.AppFactory:$L - This is fatal message
