@@ -16,6 +16,6 @@ public class ProductPage extends AppFactory {
     public WebElement productHeader;
 
     public String getProductHeaderText() {
-       return getAttribute(productHeader, "text");
+       return getText(productHeader, "Product Page Title is: ");
     }
 }

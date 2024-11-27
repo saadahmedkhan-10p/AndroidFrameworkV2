@@ -1,5 +1,11 @@
-[DEBUG] 2024-11-20 17:48:34:131 com.qa.base.AppFactory:$L - This is debug message
-[INFO ] 2024-11-20 17:48:34:150 com.qa.base.AppFactory:$L - This is info message
-[WARN ] 2024-11-20 17:48:34:150 com.qa.base.AppFactory:$L - This is warning message
-[ERROR] 2024-11-20 17:48:34:151 com.qa.base.AppFactory:$L - This is error message
-[FATAL] 2024-11-20 17:48:34:151 com.qa.base.AppFactory:$L - This is fatal message
+[INFO ] 2024-11-27 15:04:33:516 com.qa.base.AppDriver:19 - Driver is set
+[INFO ] 2024-11-27 15:04:33:523 com.qa.base.AppFactory:93 - Android driver is set
+[INFO ] 2024-11-27 15:04:34:172 com.qa.tests.LoginTest:47 - 
+********** Starting Test: verifyInvalidCreds **********
+
+[INFO ] 2024-11-27 15:04:34:340 com.qa.tests.LoginTest:53 - This test is used to verify invalid creds and get error message
+[INFO ] 2024-11-27 15:04:45:761 com.qa.tests.LoginTest:47 - 
+********** Starting Test: verifyValidUserLogin **********
+
+[INFO ] 2024-11-27 15:04:45:763 com.qa.tests.LoginTest:66 - This test is used to login with valid creds
+[INFO ] 2024-11-27 15:04:57:594 com.qa.base.AppFactory:55 - Appium Server shutdown...

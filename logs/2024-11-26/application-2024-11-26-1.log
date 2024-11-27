@@ -1,0 +1,13 @@
+[DEBUG] 2024-11-26 18:24:33:665 com.qa.base.AppFactory:$L - This is debug message
+[INFO ] 2024-11-26 18:24:33:674 com.qa.base.AppFactory:$L - This is info message
+[WARN ] 2024-11-26 18:24:33:675 com.qa.base.AppFactory:$L - This is warning message
+[ERROR] 2024-11-26 18:24:33:676 com.qa.base.AppFactory:$L - This is error message
+[FATAL] 2024-11-26 18:24:33:676 com.qa.base.AppFactory:$L - This is fatal message
+[DEBUG] 2024-11-26 18:26:49:580 com.qa.base.AppFactory:$L - This is debug message
+[INFO ] 2024-11-26 18:26:49:582 com.qa.base.AppFactory:$L - This is info message
+[WARN ] 2024-11-26 18:26:49:583 com.qa.base.AppFactory:$L - This is warning message
+[ERROR] 2024-11-26 18:26:49:583 com.qa.base.AppFactory:$L - This is error message
+[FATAL] 2024-11-26 18:26:49:585 com.qa.base.AppFactory:$L - This is fatal message
+[INFO ] 2024-11-26 19:00:12:848 com.qa.base.AppFactory:$L - Starting Appium Server...
+[INFO ] 2024-11-26 19:00:12:890 com.qa.base.AppFactory:$L - appURL is http://localhost:4723
+[INFO ] 2024-11-26 19:00:23:778 com.qa.base.AppFactory:$L - Android driver is set

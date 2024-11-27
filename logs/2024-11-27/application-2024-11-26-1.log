@@ -1,0 +1,8 @@
+[INFO ] 2024-11-26 19:00:29:081 com.qa.base.AppFactory:$L - Username is standard_user
+[INFO ] 2024-11-26 19:00:30:206 com.qa.base.AppFactory:$L - Password is secret_sauce
+[INFO ] 2024-11-26 19:00:31:321 com.qa.base.AppFactory:$L - Clicking on Login Button
+[INFO ] 2024-11-26 19:00:31:450 com.qa.tests.LoginTest:$L - Login successful
+[INFO ] 2024-11-26 19:00:32:751 com.qa.base.AppFactory:$L - Product Page Title is: PRODUCTS
+[INFO ] 2024-11-26 19:00:32:752 com.qa.tests.LoginTest:$L - Actual Product Title: PRODUCTS
+Expected Title: PRODUCTS
+[INFO ] 2024-11-26 19:00:33:610 com.qa.base.AppFactory:$L - Appium Server shutdown...

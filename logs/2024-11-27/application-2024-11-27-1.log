@@ -1,0 +1,14 @@
+[INFO ] 2024-11-27 14:18:08:755 com.qa.base.AppFactory:46 - Starting Appium Server...
+[INFO ] 2024-11-27 14:18:08:821 com.qa.base.AppFactory:90 - appURL is http://localhost:4723
+[INFO ] 2024-11-27 14:18:23:488 com.qa.base.AppDriver:19 - Driver is set
+[INFO ] 2024-11-27 14:18:23:490 com.qa.base.AppFactory:93 - Android driver is set
+[INFO ] 2024-11-27 14:18:24:431 com.qa.tests.LoginTest:47 - 
+********** Starting Test: verifyInvalidCreds **********
+
+[INFO ] 2024-11-27 14:18:24:799 com.qa.tests.LoginTest:53 - This test is used to verify invalid creds and get error message
+[INFO ] 2024-11-27 14:18:25:690 com.qa.base.AppFactory:118 - Username is invalid_user
+[INFO ] 2024-11-27 14:18:26:855 com.qa.base.AppFactory:118 - Password is secret_sauce
+[INFO ] 2024-11-27 14:18:27:962 com.qa.base.AppFactory:111 - Clicking on Login Button
+[INFO ] 2024-11-27 14:18:29:484 com.qa.base.AppFactory:131 - Error text is: Username and password do not match any user in this service.
+[INFO ] 2024-11-27 14:18:29:485 com.qa.tests.LoginTest:61 - Actual Error Message: Username and password do not match any user in this service.
+Expected Error Message: Username and password do not match any user in this service.

@@ -1,0 +1,14 @@
+[INFO ] 2024-11-27 14:18:29:631 com.qa.tests.LoginTest:47 - 
+********** Starting Test: verifyValidUserLogin **********
+
+[INFO ] 2024-11-27 14:18:29:636 com.qa.tests.LoginTest:66 - This test is used to login with valid creds
+[INFO ] 2024-11-27 14:18:29:682 com.qa.base.AppFactory:118 - Username is standard_user
+[INFO ] 2024-11-27 14:18:30:818 com.qa.base.AppFactory:118 - Password is secret_sauce
+[INFO ] 2024-11-27 14:18:31:934 com.qa.base.AppFactory:111 - Clicking on Login Button
+[INFO ] 2024-11-27 14:18:32:121 com.qa.tests.LoginTest:70 - Login successful
+[INFO ] 2024-11-27 14:18:33:664 com.qa.base.AppFactory:131 - Product Page Title is: PRODUCTS
+[INFO ] 2024-11-27 14:18:33:665 com.qa.tests.LoginTest:75 - Actual Product Title: PRODUCTS
+Expected Title: PRODUCTS
+[INFO ] 2024-11-27 14:18:35:245 com.qa.base.AppFactory:55 - Appium Server shutdown...
+[INFO ] 2024-11-27 15:04:23:765 com.qa.base.AppFactory:46 - Starting Appium Server...
+[INFO ] 2024-11-27 15:04:23:806 com.qa.base.AppFactory:90 - appURL is http://localhost:4723

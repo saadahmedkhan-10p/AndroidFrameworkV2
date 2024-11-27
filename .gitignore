@@ -32,7 +32,8 @@ build/
 !**/src/test/**/build/
 .idea/*
 .logs/*
-
+.screenshots/*
+/src/test/java/com/qa/reports
 ### VS Code ###
 .vscode/
 
