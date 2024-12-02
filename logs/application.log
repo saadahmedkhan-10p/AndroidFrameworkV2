@@ -1,12 +1,12 @@
-[INFO ] 2024-12-02 12:31:52:988 com.qa.tests.LoginTest:47 - 
+[INFO ] 2024-12-02 15:11:45:104 com.qa.tests.LoginTest:47 - 
 ********** Starting Test: verifyValidUserLogin **********
 
-[INFO ] 2024-12-02 12:31:53:031 com.qa.tests.LoginTest:66 - This test is used to login with valid creds
-[INFO ] 2024-12-02 12:31:53:220 com.qa.base.AppFactory:118 - Username is standard_user
-[INFO ] 2024-12-02 12:31:54:354 com.qa.base.AppFactory:118 - Password is secret_sauce
-[INFO ] 2024-12-02 12:31:55:444 com.qa.base.AppFactory:111 - Clicking on Login Button
-[INFO ] 2024-12-02 12:31:55:581 com.qa.tests.LoginTest:70 - Login successful
-[INFO ] 2024-12-02 12:31:56:874 com.qa.base.AppFactory:131 - Product Page Title is: PRODUCTS
-[INFO ] 2024-12-02 12:31:56:876 com.qa.tests.LoginTest:75 - Actual Product Title: PRODUCTS
+[INFO ] 2024-12-02 15:11:45:109 com.qa.tests.LoginTest:66 - This test is used to login with valid creds
+[INFO ] 2024-12-02 15:11:45:145 com.qa.base.AppFactory:118 - Username is standard_user
+[INFO ] 2024-12-02 15:11:46:254 com.qa.base.AppFactory:118 - Password is secret_sauce
+[INFO ] 2024-12-02 15:11:47:336 com.qa.base.AppFactory:111 - Clicking on Login Button
+[INFO ] 2024-12-02 15:11:47:459 com.qa.tests.LoginTest:70 - Login successful
+[INFO ] 2024-12-02 15:11:48:738 com.qa.base.AppFactory:131 - Product Page Title is: PRODUCTS
+[INFO ] 2024-12-02 15:11:48:739 com.qa.tests.LoginTest:75 - Actual Product Title: PRODUCTS
 Expected Title: PRODUCTS
-[INFO ] 2024-12-02 12:31:58:474 com.qa.base.AppFactory:55 - Appium Server shutdown...
+[INFO ] 2024-12-02 15:11:49:874 com.qa.base.AppFactory:55 - Appium Server shutdown...
